@@ -31,7 +31,7 @@ Sprint | Previsão | Status| Histórico|
 
 # Micro Certificações
 <p align="center">
- <img src="https://img.shields.io/badge/STATUS-ANDAMENTO-YELLOW"/>
+ <img src="https://img.shields.io/badge/STATUS-ANDAMENTO-BLACK"/>
 </p>
 
 # Equipe
