@@ -15,6 +15,11 @@ Análise de Operações em Infraestruturas de Produção.
 * [Burndown](#burndown)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
+
+## Plano de ação
+<img width="798" height="510" alt="image" src="https://github.com/user-attachments/assets/b7c52e1a-9d40-4da5-b8c2-26fb45c8e4a1" />
+https://github.com/megda12/Comex-stat-/blob/main/Gr%C3%A1fico%20Burndown.xlsx
+
   
 # Projeto (API) 
 Projeto pedagógico na Metodologia API para o aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
@@ -92,11 +97,11 @@ Mesmo diante de todo o desafio enfrentado encontrou-se resiliencia e companheris
  ## Backlog da empresa
 Nome | Função | Status| Sprint|
 |------|--------|------|--------|
-|Fábio | Responsável pelo Power bi | concluido | Sprint 1 a 4
-|Moisés| Responsável pelo sprint backlog e Relatório| concluido | Sprint 1 a 4
-|Alinny| Responsável pelo sprint backlog e relatório | concluido| Sprint 1 a 4
-|Ana| Responsável pelo sprint backlog, comex stat e Decodificaçao da Linguagem de Pynthon| concluido| Sprint 1 a 4
-|Matheus| Responsável pelo github e Power BI | concluido| Sprint 1 a 4
+|Fábio | Responsável pelo Power bi | em andamento | Sprint 1 a 4
+|Moisés| Responsável pelo sprint backlog e Relatório| em andamento | Sprint 1 a 4
+|Alinny| Responsável pelo sprint backlog e relatório | em andamento| Sprint 1 a 4
+|Ana| Responsável pelo sprint backlog, comex stat e Decodificaçao da Linguagem de Pynthon| em andamento| Sprint 1 a 4
+|Matheus| Responsável pelo github e Power BI | em andamento| Sprint 1 a 4
 
 ## Burndown
 ![image](https://github.com/user-attachments/assets/551d5760-8e4a-4b3a-8474-023fa1f4dbe7)
@@ -163,7 +168,3 @@ Nome | Função | Status| Sprint|
 |Product Owner| Ana Luiza | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Scrum Master| Matheus Megda | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 
-
-## Plano de ação
-<img width="798" height="510" alt="image" src="https://github.com/user-attachments/assets/b7c52e1a-9d40-4da5-b8c2-26fb45c8e4a1" />
-https://github.com/megda12/Comex-stat-/blob/main/Gr%C3%A1fico%20Burndown.xlsx
