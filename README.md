@@ -27,7 +27,7 @@ Uso de estratégias para entender o problema, conceber uma solução viável ao 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 15/09/2025 | em andamento | 
+|Kick Off | 15/09/2025 | concluido | 
 |01 | 03/10/2025 | em andamento | 
 |02|  24/10/2025| aguardando |
 |03| 14/11/2025 | aguardando|
