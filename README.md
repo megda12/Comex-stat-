@@ -23,7 +23,7 @@ Uso de estratégias para entender o problema, conceber uma solução viável ao 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 15/09/2025 | concluido | 
+|Kick Off | 15/09/2025 | concluido | https://github.com/megda12/Comex-stat-/blob/main/Requisitos%20de%20Cliente%20PI%20II%20e%20JE%20-%20GPI%202025%202.pdf
 |01 | 03/10/2025 | em andamento | 
 |02|  24/10/2025| aguardando |
 |03| 14/11/2025 | aguardando|
