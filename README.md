@@ -54,6 +54,7 @@ Para a consecução deste objetivo foram estabelecidos os objetivos específicos
 # Funcionalidades Sprints
 
 ## Sprint 1
+<img width="1439" height="805" alt="image" src="https://github.com/user-attachments/assets/98e50043-e312-47d1-b460-b7895cef2869" />
 
 
 
