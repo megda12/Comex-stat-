@@ -16,10 +16,6 @@ Análise de Operações em Infraestruturas de Produção.
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
-## Plano de ação
-<img width="798" height="510" alt="image" src="https://github.com/user-attachments/assets/b7c52e1a-9d40-4da5-b8c2-26fb45c8e4a1" />
-https://github.com/megda12/Comex-stat-/blob/main/Gr%C3%A1fico%20Burndown.xlsx
-
   
 # Projeto (API) 
 Projeto pedagógico na Metodologia API para o aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
@@ -105,6 +101,7 @@ Nome | Função | Status| Sprint|
 
 ## Burndown
 <img width="801" height="512" alt="image" src="https://github.com/user-attachments/assets/6ecfd95d-02a5-48d9-a528-a4528ae4fa45" />
+https://github.com/megda12/Comex-stat-/blob/main/Gr%C3%A1fico%20Burndown.xlsx
 
 
 
