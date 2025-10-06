@@ -104,6 +104,8 @@ Nome | Função | Status| Sprint|
 |Matheus| Responsável pelo github e Power BI | em andamento| Sprint 1 a 4
 
 ## Burndown
+<img width="801" height="512" alt="image" src="https://github.com/user-attachments/assets/6ecfd95d-02a5-48d9-a528-a4528ae4fa45" />
+
 
 
 ## Sprint 1 - Concepção
