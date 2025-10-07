@@ -91,7 +91,7 @@ Mesmo diante de todo o desafio enfrentado encontrou-se resiliencia e companheris
  Cronograma do projeto, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence;
  O cronograma foi feito pelo Excel, Comunicações pessoalmente e WhatsApp;
 
- ## Backlog do projeto
+ ## Backlog do projeto/produto
 
  oq vamos entregar para eles ao decorrer das sprints
 
