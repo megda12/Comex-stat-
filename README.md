@@ -91,7 +91,14 @@ Mesmo diante de todo o desafio enfrentado encontrou-se resiliencia e companheris
  Cronograma do projeto, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence;
  O cronograma foi feito pelo Excel, Comunicações pessoalmente e WhatsApp;
 
- ## Backlog da empresa
+ ## Backlog do projeto
+
+ oq vamos entregar para eles ao decorrer das sprints
+
+
+ 
+
+ ## Backlog de função
 Nome | Função | Status| Sprint|
 |------|--------|------|--------|
 |Fábio | Responsável pelo Power bi | em andamento | Sprint 1 a 4
