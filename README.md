@@ -11,7 +11,6 @@ Análise de Operações em Infraestruturas de Produção.
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
 * [Cronograma das Sprints](#cronograma-das-sprints)
-* [Backlog do Produto](#backlog-do-produto)
 * [Burndown](#burndown)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
@@ -95,17 +94,6 @@ Mesmo diante de todo o desafio enfrentado encontrou-se resiliencia e companheris
 
  oq vamos entregar para eles ao decorrer das sprints
 
-
- 
-
- ## Backlog de função
-Nome | Função | Status| Sprint|
-|------|--------|------|--------|
-|Fábio | Responsável pelo Power bi | em andamento | Sprint 1 a 4
-|Moisés| Responsável pelo sprint backlog e Relatório| em andamento | Sprint 1 a 4
-|Alinny| Responsável pelo sprint backlog e relatório | em andamento| Sprint 1 a 4
-|Ana| Responsável pelo sprint backlog, comex stat e Decodificaçao da Linguagem de Pynthon| em andamento| Sprint 1 a 4
-|Matheus| Responsável pelo github e Power BI | em andamento| Sprint 1 a 4
 
 ## Burndown
 <img width="801" height="512" alt="image" src="https://github.com/user-attachments/assets/6ecfd95d-02a5-48d9-a528-a4528ae4fa45" />
