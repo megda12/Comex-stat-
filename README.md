@@ -1,5 +1,5 @@
 
-# Aprendizado por Projeto Integrado (API) - Template - Comex-stat
+# Aprendizado por Projeto Integrado (API) - Template - NEWAY
 Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
 Análise de Operações em Infraestruturas de Produção.
 
