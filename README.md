@@ -108,7 +108,7 @@ https://github.com/megda12/Comex-stat-/blob/main/Gr%C3%A1fico%20Burndown.xlsx
 - [x] Power bi
 
 ## Sprint 2 - Desenvolvimento do Projeto
-- [x]
+- [x] Power BI
 - [x] Swot da empresa
 - [x] Canvas da empresa
 - [x] Pesquisa inicial preenchida 
