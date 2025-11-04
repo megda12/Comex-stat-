@@ -91,9 +91,12 @@ Mesmo diante de todo o desafio enfrentado encontrou-se resiliencia e companheris
  Cronograma do projeto, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence;
  O cronograma foi feito pelo Excel, Comunicações pessoalmente e WhatsApp;
 
- ## Backlog do projeto/produto
+ ## Backlog do produto
 
- oq vamos entregar para eles ao decorrer das sprints
+sprint 2 - entrega do power bi com as devidas modficações
+ajuste no backlog 
+slides para uma apresentação dinâmica
+
 
 
 ## Burndown
@@ -109,9 +112,9 @@ https://github.com/megda12/Comex-stat-/blob/main/Gr%C3%A1fico%20Burndown.xlsx
 
 ## Sprint 2 - Desenvolvimento do Projeto
 - [x] Power BI
-- [x] Swot da empresa
-- [x] Canvas da empresa
-- [x] Pesquisa inicial preenchida 
+- [x] Slides
+- [x] Github
+- [x] Backlog
       
 ## Sprint 3 - Desenvolvimento
 - [x] Desenvolvimento do planejamento estratégico da empresa (Excel e Word) 
