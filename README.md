@@ -66,6 +66,9 @@ Para a consecução deste objetivo foram estabelecidos os objetivos específicos
 ## Sprint 3
 
 
+## Sprint 3
+
+
 ## Tecnologias Utilizadas
 ### Produto 
 Extrair dados abertos do site " comex stat" , um portal de consulta com os dados coletados e tratados.
