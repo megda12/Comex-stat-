@@ -11,7 +11,7 @@ Análise de Operações em Infraestruturas de Produção.
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
 * [Cronograma das Sprints](#cronograma-das-sprints)
-* [Burndown](#burndown)
+* [Backlog das sprints](#backlog-das-sprints)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
@@ -93,7 +93,6 @@ Mesmo diante de todo o desafio enfrentado encontrou-se resiliencia e companheris
  Cronograma do projeto, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence;
  O cronograma foi feito pelo Excel, Comunicações pessoalmente e WhatsApp;
 
- ## Backlog do produto
 
 ## Backlog das Sprints 📋
 | Rank | User Story | Prioridade | Estimativa | Sprint | Requisito |
