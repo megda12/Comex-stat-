@@ -57,8 +57,9 @@ Para a consecução deste objetivo foram estabelecidos os objetivos específicos
 <img width="1439" height="805" alt="image" src="https://github.com/user-attachments/assets/98e50043-e312-47d1-b460-b7895cef2869" />
 
 
-
 ## Sprint 2
+
+<img width="1237" height="688" alt="image" src="https://github.com/user-attachments/assets/565f5ba7-32ed-49f3-bb13-80990ae08b2e" />
 
 
 ## Sprint 3
@@ -114,12 +115,6 @@ Mesmo diante de todo o desafio enfrentado encontrou-se resiliencia e companheris
 | 16 | Como gerente de planejamento, quero saber qual terminal tem mais paradas por conta do clima para poder tomar decisões preventivas. | Média | 8h | Sprint 2 | RN.P.2 |
 | 17 | Como gerente de planejamento, quero filtrar por porto com sugestões automáticas para encontrar rapidamente o porto desejado. | Média | 1h | Sprint 2 | RN.P.2 |
 | 18 | Como **coordenador de logística**, quero comparar desempenho entre portos e operações, para embasar decisões de gestão. | Alta | 10h | Sprint 2 | RN.P.2 |
-
-
-
-## Burndown
-<img width="801" height="512" alt="image" src="https://github.com/user-attachments/assets/6ecfd95d-02a5-48d9-a528-a4528ae4fa45" />
-https://github.com/megda12/Comex-stat-/blob/main/Gr%C3%A1fico%20Burndown.xlsx
 
 
 
