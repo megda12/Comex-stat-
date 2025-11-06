@@ -100,7 +100,7 @@ Mesmo diante de todo o desafio enfrentado encontrou-se resiliencia e companheris
 | 1  | Como **analista de mercado**, quero acessar e baixar dados do Comex Stat via Colab, para iniciar às análises. | Alta | 5h | Sprint 1 | RN.P.2 |
 | 2  | Como **planejamento**, quero que os dados estejam normalizados e preparar para o desenvolvimento. | Alta | 7h | Sprint 1 | RN.P.1 |
 | 3  | Como **supervisor**, quero um DASHBOARD no POWER BI, (com os dados extraidos do Google Colab). | Alta | 3h | Sprint 1 | RN.P.2 |
-| 4  | Como **gerente de planejamento**, quero aplicar filtros (produção por kg,cidades).| Alta | 6h | Sprint 1 | RN.P.2 |
+| 4  | Como **gerente de planejamento**, quero aplicar filtros (produção por kg, valores em exportação).| Alta | 6h | Sprint 1 | RN.P.2 |
 | 5  | Como **coordenador de operações**, quero o dashbaord com a melhor vizualização possível, para o entendimento claro. | Média | 2h | Sprint 1 | RN.P.2 |
 | 6  | Como **coordenador de operações**,  | Alta | 5h | Sprint 1 | RN.P.2 |
 | 7  | Como **gerente de operações**, quero acompanhar o tempo médio de operação por porto, para identificar gargalos e otimizar processos. | Alta | 5h | Sprint 1 | RN.P.2 |
