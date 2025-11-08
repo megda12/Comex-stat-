@@ -111,7 +111,7 @@ Mesmo diante de todo o desafio enfrentado encontrou-se resiliencia e companheris
 | 9  | Como **analista de qualidade**, quero aplicar validações nos dados extraídos, para evitar duplicidades e inconsistências nas análises.	| Alta | 6h | Sprint 2 | RN.P.2 |
 | 10 | Como **gerente de projeto**, quero documentar o plano de execução das sprints, para acompanhar o progresso e os entregáveis do time. | Média | 3h | Sprint 2 | RN.P.2 |
 | 11 | Como **analista de mercado**, quero criar indicadores comparativos entre exportação e importação, para avaliar a produção.	| Alta | 5h | Sprint 2 | RN.P.2 |
-| 12 | Como **supervisor**, quero padronizar os relatórios de desempenho (por período e produto), para facilitar as reuniões de acompanhamento.   | Alta | 2h | Sprint 1 | RN.P.2 |
+| 12 | Como **supervisor**, quero padronizar os relatórios de desempenho (por período e produto), para facilitar as reuniões de acompanhamento.   | Alta | 2h | Sprint 2 | RN.P.2 |
 
 
 ## Sprint 1 - Concepção
