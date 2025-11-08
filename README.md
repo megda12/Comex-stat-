@@ -114,6 +114,19 @@ Mesmo diante de todo o desafio enfrentado encontrou-se resiliencia e companheris
 | 12 | Como **supervisor**, quero padronizar os relatórios de desempenho (por período e produto), para facilitar as reuniões de acompanhamento.   | Alta | 2h | Sprint 2 | RN.P.2 |
 
 
+## 🏃 Definition of Ready (DoR) 
+
+| Critério | Descrição | Status |
+|-----------|------------|---------|
+|  Título e Descrição claros | “Como analista de mercado, quero baixar dados de exportação do Comex Stat via Colab para iniciar as análises.” | [x] |
+|  Critérios de Aceitação definidos |Todos os critérios de aceitação foram definidos e validados pelo Product Owner, garantindo que as entregas atendam aos objetivos de análise de exportação e importação.| [x] |
+| Sem dependências bloqueadoras |Nenhuma dependência técnica, de dados ou de acesso (como API do Comex Stat ou credenciais do Google Colab) impede o início do desenvolvimento. | [x] |
+| Compreensão validada pelo time |Todos os membros compreendem as etapas de coleta, normalização e análise dos dados do BI, e concordam com os esforços e responsabilidades. | [x] |
+| Estimativa de esforço realizada | As histórias possuem estimativas de esforço definidas com base em Planning Poker, considerando o volume de dados e complexidade das transformações. | [x] |
+| Artefatos correlatos disponíveis| Foram anexados os fluxogramas de processo, dicionário de dados e modelos de integração (Colab ↔ Power BI), garantindo clareza técnica. | [x] |
+|  Estratégia de teste definida | Foram planejados cenários de teste para validar a integridade dos dados importados, a atualização dos dashboards e a consistência das métricas de exportação/importação. | [x] |
+
+
 ## Sprint 1 - Concepção
 - [x] Kickoff
 - [x] Pesquisa de exportação 
