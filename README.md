@@ -105,20 +105,13 @@ Mesmo diante de todo o desafio enfrentado encontrou-se resiliencia e companheris
 | 3  | Como **supervisor**, quero um DASHBOARD no POWER BI, (com os dados extraidos do Google Colab). | Alta | 3h | Sprint 1 | RN.P.2 |
 | 4  | Como **gerente de planejamento**, quero aplicar filtros (produção por kg, valores em exportação).| Alta | 6h | Sprint 1 | RN.P.2 |
 | 5  | Como **coordenador de operações**, quero o dashbaord com a melhor vizualização possível, para o entendimento claro. | Média | 2h | Sprint 1 | RN.P.2 |
-| 6  | Como **coordenador de operações**,  | Alta | 5h | Sprint 1 | RN.P.2 |
-| 7  | Como **gerente de operações**, quero acompanhar o tempo médio de operação por porto, para identificar gargalos e otimizar processos. | Alta | 5h | Sprint 1 | RN.P.2 |
-| 8  | Como **coordenador de logística**, quero compreender o desempenho mensal dos portos, para alocar adequadamente os recursos. | Alta | 5h | Sprint 1 | RN.P.2 |
-| 9  | Como **diretor de logística**, quero analisar tendências de carga e destino ao longo dos anos, para planejar investimentos estratégicos. | Baixa | 6h | Sprint 1 | RN.P.2 |
-| 10 | Como **diretor de operações**, quero dashboards consolidados de portos, cargas e operações, para monitorar performance do sistema. | Média | 4h | Sprint 1 | RN.P.2 |
-| 11 | Como **coordenador de planejamento**, quero priorizar indicadores de eficiência, para orientar decisões gerenciais. | Alta | 6h | Sprint 1 | RN.P.2 |
-| 12 | Como **supervisor de operações**, quero identificar operações com maior tempo de espera, para reduzir atrasos e custos. | Alta | 6h | Sprint 1 | RN.P.2 |
-| 13 | Como gerente de planejamento, quero visualizar informações do setor agro para analisar e planejar melhor as operações. | Média | 10h | Sprint 2 | RN.P.4 |
-| 14 | Como **gerente de planejamento**, quero acompanhar a evolução dos indicadores, para identificar tendências. | Média | 3h | Sprint 2 | RN.P.2 |
-| 15 | Como gerente de planejamento, quero monitorar mudanças no clima para antecipar impactos nas operações. | Média | 5h | Sprint 2 | RN.P.3 |
-| 16 | Como gerente de planejamento, quero saber qual terminal tem mais paradas por conta do clima para poder tomar decisões preventivas. | Média | 8h | Sprint 2 | RN.P.2 |
-| 17 | Como gerente de planejamento, quero filtrar por porto com sugestões automáticas para encontrar rapidamente o porto desejado. | Média | 1h | Sprint 2 | RN.P.2 |
-| 18 | Como **coordenador de logística**, quero comparar desempenho entre portos e operações, para embasar decisões de gestão. | Alta | 10h | Sprint 2 | RN.P.2 |
-
+| 6  | Como **coordenador de operações**, quero refazer o POWER BI, para melhorar a estrutura e conteúdo. | Média | 2h | Sprint 2 | RN.P.2 |
+| 7  | Como **coordenador de projeto**, quero definir o fluxo de atualização dos dados (diária, semanal, mensal), para manter as informações atualizadas no dashboard |	Média |	4h | Sprint 2 |	RN.P.2 |
+| 8  | Como **engenheiro de dados**, quero automatizar a coleta dos dados de importação via API do Comex Stat, para reduzir retrabalho manual. |	Alta |	7h |	Sprint 2 |	RN.P.1 |
+| 9  | Como **analista de qualidade**, quero aplicar validações nos dados extraídos, para evitar duplicidades e inconsistências nas análises.	| Alta	6h | 	Sprint 2 |	RN.P.2 |
+| 10 | Como **gerente de projeto**, quero documentar o plano de execução das sprints, para acompanhar o progresso e os entregáveis do time. |	Média	| | 3h |	| Sprint 2 |	| RN.P.2 |
+| 11 | Como **analista de mercado**, quero criar indicadores comparativos entre exportação e importação, para avaliar a produção.	| Alta |	| 5h |	| Sprint 2 |	| RN.P.2 |
+| 12 | Como **supervisor**, quero padronizar os relatórios de desempenho (por período e produto), para facilitar as reuniões de acompanhamento.   | Alta |	 | 5h |	 | Sprint 2 |	 | RN.P.2 |
 
 
 ## Sprint 1 - Concepção
