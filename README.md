@@ -67,7 +67,7 @@ Para a consecução deste objetivo foram estabelecidos os objetivos específicos
 ## Sprint 3
 
 
-## Sprint 3
+## Sprint 4
 
 
 ## Tecnologias Utilizadas
