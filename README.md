@@ -12,6 +12,7 @@ Análise de Operações em Infraestruturas de Produção.
 * [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
 * [Cronograma das Sprints](#cronograma-das-sprints)
 * [Backlog das sprints](#backlog-das-sprints)
+* [Definition of Ready](#defination-of-ready)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
