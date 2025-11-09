@@ -61,7 +61,7 @@ Para a consecução deste objetivo foram estabelecidos os objetivos específicos
 
 ## Sprint 2
 
-<img width="1237" height="688" alt="image" src="https://github.com/user-attachments/assets/565f5ba7-32ed-49f3-bb13-80990ae08b2e" />
+<img width="766" height="429" alt="image" src="https://github.com/user-attachments/assets/6409ac87-7de2-4980-a407-88e9e2b15fb4" />
 
 
 ## Sprint 3
