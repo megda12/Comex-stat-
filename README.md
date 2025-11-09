@@ -173,12 +173,12 @@ Mesmo diante de todo o desafio enfrentado encontrou-se resiliencia e companheris
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| Trabalho em equipe | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Trabalho em equipe | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | Pontualidade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| Criatividade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Comunicação | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| Proatividade | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Criatividade | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Comunicação | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Proatividade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
 
 # Autores
