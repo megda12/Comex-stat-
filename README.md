@@ -25,7 +25,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 15/09/2025 | concluido | https://github.com/megda12/Comex-stat-/blob/main/Requisitos%20de%20Cliente%20PI%20II%20e%20JE%20-%20GPI%202025%202.pdf
 |01 | 06/10/2025 | concluido | https://fatecspgov.sharepoint.com/:u:/r/sites/GPI1/Shared%20Documents/General/Apresenta%C3%A7%C3%A3o%20Sprint%201%202sem.pbix?csf=1&web=1&e=P55RPx
-|02|  10/11/2025| concluido | 
+|02|  10/11/2025| concluido | canva.com/design/DAG3ryGT5TY/7BFhg3C2M6VDhCvFnuSQ4g/edit?utm_content=DAG3ryGT5TY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 |03| 24/11/2025 | em andamento|
 |04| 01/12/2025 | aguardando|
 |Feira Soluções| 04/12/2025 | em andamento | 
