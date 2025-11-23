@@ -105,23 +105,25 @@ Mesmo diante de todo o desafio enfrentado encontrou-se resiliencia e companheris
 | Rank | User Story | Prioridade | Estimativa | Sprint | Requisito |
 |----|------------|------------|-------------|--------|-----------|
 | 1  | Como **analista de mercado**, quero acessar e baixar dados do Comex Stat via Colab, para iniciar às análises. | Alta | 5h | Sprint 1 | RN.P.2 |
-| 2  | Como **planejamento**, quero que os dados estejam normalizados e preparar para o desenvolvimento. | Alta | 7h | Sprint 1 | RN.P.1 |
-| 3  | Como **supervisor**, quero um DASHBOARD no POWER BI, (com os dados extraidos do Google Colab). | Alta | 3h | Sprint 1 | RN.P.2 |
-| 4  | Como **gerente de planejamento**, quero aplicar filtros (produção por kg, valores em exportação).| Alta | 6h | Sprint 1 | RN.P.2 |
-| 5  | Como **coordenador de operações**, quero o dashbaord com a melhor vizualização possível, para o entendimento claro. | Média | 2h | Sprint 1 | RN.P.2 |
-| 6  | Como **coordenador de operações**, quero refazer o POWER BI, para melhorar a estrutura e conteúdo. | Média | 3h | Sprint 2 | RN.P.2 |
-| 7  | Como **coordenador de projeto**, quero definir o fluxo de atualização dos dados (diária, semanal, mensal), para manter as informações atualizadas no dashboard | Baixa | 2h | Sprint 2 | RN.P.2 |
-| 8  | Como **engenheiro de dados**, quero automatizar a coleta dos dados de importação via API do Comex Stat, para reduzir retrabalho manual. | Alta | 7h | Sprint 2 | RN.P.2 |
-| 9  | Como **analista de qualidade**, quero aplicar validações nos dados extraídos, para evitar duplicidades e inconsistências nas análises.	| Alta | 6h | Sprint 2 | RN.P.2 |
-| 10 | Como **gerente de projeto**, quero documentar o plano de execução das sprints, para acompanhar o progresso e os entregáveis do time. | Baixa | 3h | Sprint 2 | RN.P.2 |
-| 11 | Como **analista de mercado**, quero criar indicadores comparativos entre exportação e importação, para avaliar a produção.	| Alta | 5h | Sprint 2 | RN.P.2 |
-| 12 | Como **supervisor**, quero padronizar os relatórios de desempenho (por período e produto), para facilitar as reuniões de acompanhamento. | Média | 2h | Sprint 2 | RN.P.2 |
-| 13 | Como **analista de mercado**, quero mostrar os países mais importadores do ramo auto peças, produtos mais exportados dentro do Power BI.	| Alta | 3h | Sprint 3 | RN.P.2 |
-| 14 | Como **gerente de projeto**, quero planejar as linhas de tendência de acordo com os anos. | Média | 2h | Sprint 3 | RN.P.2 |
-| 15 | Como **analista de mercado**, quero relatar todo nosso trajeto, desde a sprint 1 no WORD. | Alta | 4h | Sprint 3 | RN.P.2 |
-| 16 | Como **supervisor**, quero desenvolver slides para apresentação com telas do Power Bi, junto com o backlog. | Alta | 3h | Sprint 3 | RN.P.2 |
-| 17 | Como **supervisor**, qu | Alta | 3h | Sprint 3 | RN.P.2 |
-| 18 | Como **gerente de projeto**, quero planejar o Backlog das sprints seguintes. | Baixa | 2h | Sprint 4 | RN.P.2 |
+| 2  | Como **analista de mercado**, quero os dados tratados, para avaliação do cliente. | Alta | 2h | Sprint 1 | RN.P.2 |
+| 3  | Como **planejamento**, quero que os dados estejam normalizados e preparar para o desenvolvimento. | Alta | 7h | Sprint 1 | RN.P.1 |
+| 4  | Como **supervisor**, quero um DASHBOARD no POWER BI, (com os dados extraidos do Google Colab). | Alta | 3h | Sprint 1 | RN.P.2 |
+| 5  | Como **gerente de planejamento**, quero aplicar filtros (produção por kg, valores em exportação).| Alta | 6h | Sprint 1 | RN.P.2 |
+| 6  | Como **coordenador de operações**, quero o dashbaord com a melhor vizualização possível, para o entendimento claro. | Média | 2h | Sprint 1 | RN.P.2 |
+| 7  | Como **coordenador de operações**, quero refazer o POWER BI, para melhorar a estrutura e conteúdo. | Média | 3h | Sprint 2 | RN.P.2 |
+| 8  | Como **coordenador de projeto**, quero definir o fluxo de atualização dos dados (diária, semanal, mensal), para manter as informações atualizadas no dashboard | Baixa | 2h | Sprint 2 | RN.P.2 |
+| 9  | Como **engenheiro de dados**, quero automatizar a coleta dos dados de importação via API do Comex Stat, para reduzir retrabalho manual. | Alta | 7h | Sprint 2 | RN.P.2 |
+| 10 | Como **analista de qualidade**, quero aplicar validações nos dados extraídos, para evitar duplicidades e inconsistências nas análises.	| Alta | 6h | Sprint 2 | RN.P.2 |
+| 11 | Como **gerente de projeto**, quero documentar o plano de execução das sprints, para acompanhar o progresso e os entregáveis do time. | Baixa | 3h | Sprint 2 | RN.P.2 |
+| 12 | Como **analista de mercado**, quero criar indicadores comparativos entre exportação e importação, para avaliar a produção.	| Alta | 5h | Sprint 2 | RN.P.2 |
+| 13 | Como **supervisor**, quero padronizar os relatórios de desempenho (por período e produto), para facilitar as reuniões de acompanhamento. | Média | 2h | Sprint 2 | RN.P.2 |
+| 14 | Como **analista de mercado**, quero mostrar os países mais importadores do ramo autopeças, produtos mais exportados dentro do Power BI.	| Alta | 3h | Sprint 3 | RN.P.2 |
+| 15 | Como **gerente de projeto**, quero planejar as linhas de tendência de acordo com os anos. | Média | 2h | Sprint 3 | RN.P.1 |
+| 16 | Como **analista de mercado**, quero relatar todo nosso trajeto, desde a sprint 1 no WORD. | Alta | 4h | Sprint 3 | RN.P.2 |
+| 17 | Como **supervisor**, quero desenvolver slides para apresentação com telas do Power Bi, junto com o backlog. | Alta | 3h | Sprint 3 | RN.P.1 |
+| 18 | Como **supervisor**, quero relatar as dados relevantes sobre o mercado automotivo/autopeças | Alta | 3h | Sprint 3 | RN.P.2 |
+| 19 | Como **gerente de projeto**, quero aplicar os produtos fabricados e produção mensal de janeiro até dezembro no dashboard. | Média | 2h | Sprint 3 | RN.P.2 |
+| 20 | Como **gerente de projeto**, quero planejar o Backlog das sprints seguintes. | Baixa | 2h | Sprint 4 | RN.P.2 |
 
 
 
