@@ -26,8 +26,8 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 15/09/2025 | concluido | https://github.com/megda12/Comex-stat-/blob/main/Requisitos%20de%20Cliente%20PI%20II%20e%20JE%20-%20GPI%202025%202.pdf
 |01 | 06/10/2025 | concluido | https://fatecspgov.sharepoint.com/:u:/r/sites/GPI1/Shared%20Documents/General/Apresenta%C3%A7%C3%A3o%20Sprint%201%202sem.pbix?csf=1&web=1&e=P55RPx
 |02|  10/11/2025| concluido | https://www.canva.com/design/DAG3ryGT5TY/7BFhg3C2M6VDhCvFnuSQ4g/edit
-|03| 24/11/2025 | em andamento|
-|04| 01/12/2025 | aguardando|
+|03| 24/11/2025 | concluido| https://www.canva.com/design/DAG5AKEa3hQ/V5cX8rY7OBsTXIfiozW_gw/edit
+|04| 01/12/2025 | em andamento|
 |Feira Soluções| 04/12/2025 | em andamento | 
 
 
@@ -56,6 +56,7 @@ Para a consecução deste objetivo foram estabelecidos os objetivos específicos
 # Funcionalidades Sprints
 
 ## Sprint 1
+
 <img width="1439" height="805" alt="image" src="https://github.com/user-attachments/assets/98e50043-e312-47d1-b460-b7895cef2869" />
 
 
@@ -65,6 +66,8 @@ Para a consecução deste objetivo foram estabelecidos os objetivos específicos
 
 
 ## Sprint 3
+
+<img width="766" height="422" alt="image" src="https://github.com/user-attachments/assets/be402aa2-443b-4b7e-a778-fd32d4217aee" />
 
 
 ## Sprint 4
@@ -112,7 +115,14 @@ Mesmo diante de todo o desafio enfrentado encontrou-se resiliencia e companheris
 | 9  | Como **analista de qualidade**, quero aplicar validações nos dados extraídos, para evitar duplicidades e inconsistências nas análises.	| Alta | 6h | Sprint 2 | RN.P.2 |
 | 10 | Como **gerente de projeto**, quero documentar o plano de execução das sprints, para acompanhar o progresso e os entregáveis do time. | Baixa | 3h | Sprint 2 | RN.P.2 |
 | 11 | Como **analista de mercado**, quero criar indicadores comparativos entre exportação e importação, para avaliar a produção.	| Alta | 5h | Sprint 2 | RN.P.2 |
-| 12 | Como **supervisor**, quero padronizar os relatórios de desempenho (por período e produto), para facilitar as reuniões de acompanhamento.   | Média | 2h | Sprint 2 | RN.P.2 |
+| 12 | Como **supervisor**, quero padronizar os relatórios de desempenho (por período e produto), para facilitar as reuniões de acompanhamento. | Média | 2h | Sprint 2 | RN.P.2 |
+| 13 | Como **analista de mercado**, quero mostrar os países mais importadores do ramo auto peças, produtos mais exportados dentro do Power BI.	| Alta | 3h | Sprint 3 | RN.P.2 |
+| 14 | Como **gerente de projeto**, quero planejar as linhas de tendência de acordo com os anos. | Média | 2h | Sprint 3 | RN.P.2 |
+| 15 | Como **analista de mercado**, quero relatar todo nosso trajeto, desde a sprint 1 no WORD. | Alta | 4h | Sprint 3 | RN.P.2 |
+| 16 | Como **supervisor**, quero desenvolver slides para apresentação com telas do Power Bi, junto com o backlog. | Alta | 3h | Sprint 3 | RN.P.2 |
+| 17 | Como **supervisor**, qu | Alta | 3h | Sprint 3 | RN.P.2 |
+| 18 | Como **gerente de projeto**, quero planejar o Backlog das sprints seguintes. | Baixa | 2h | Sprint 4 | RN.P.2 |
+
 
 
 ## 🏃 Definition of Ready (DoR) 
