@@ -121,7 +121,7 @@ Mesmo diante de todo o desafio enfrentado encontrou-se resiliencia e companheris
 | 15 | Como **gerente de projeto**, quero planejar as linhas de tendência de acordo com os anos. | Média | 2h | Sprint 3 | RN.P.1 |
 | 16 | Como **analista de mercado**, quero relatar todo nosso trajeto, desde a sprint 1 no WORD. | Alta | 4h | Sprint 3 | RN.P.2 |
 | 17 | Como **supervisor**, quero desenvolver slides para apresentação com telas do Power Bi, junto com o backlog. | Alta | 3h | Sprint 3 | RN.P.1 |
-| 18 | Como **supervisor**, quero relatar as dados relevantes sobre o mercado automotivo/autopeças | Alta | 3h | Sprint 3 | RN.P.2 |
+| 18 | Como **supervisor**, quero relatar as dados relevantes sobre o mercado automotivo/autopeças. | Alta | 3h | Sprint 3 | RN.P.2 |
 | 19 | Como **gerente de projeto**, quero aplicar os produtos fabricados e produção mensal de janeiro até dezembro no dashboard. | Média | 2h | Sprint 3 | RN.P.2 |
 | 20 | Como **gerente de projeto**, quero planejar o Backlog das sprints seguintes. | Baixa | 2h | Sprint 4 | RN.P.2 |
 
